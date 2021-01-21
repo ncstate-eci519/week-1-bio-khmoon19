@@ -1,4 +1,5 @@
 # Katie Martin (Moon)
 
 ## About Me
-Put a brief bio here about you. Use a few **bold** and _italic_ words and maybe a [link or two](http://www.google.com).
+Hi everyone! My name is Katie Martin (until I can get all the paperwork figured out to be Katie Moon). I live in Raleigh with my husband Patrick, our dog Blue, and our cat T'Challa. [Here's a fun family picture of us](https://drive.google.com/file/d/1N8Rx2icAhBTh8CjArr07P-h1yshCBdEw/view?usp=sharing). This is my first semester in graduate school in the **STEM education master's program** focusing on _Technology Education_. My current **job** is working with elementary school students in grades K-3 at a private preschool where I currently help with their online schooling. Some of my **hobbies** are video games, podcasts, reading, drawing, adventures with friends and family (including being an Aunt to two beautiful little boys), moives, and crafting.
+I look forward to the semester and learning more about using code to improve student experience!
